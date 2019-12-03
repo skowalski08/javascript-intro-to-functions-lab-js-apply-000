@@ -19,9 +19,3 @@ function sayHiToGrandma(string) {
     return "I can't hear you!";
   }
 }
-
-function sayHiToGrandma(string) {
-  string.toUpperCase()
-  var response = 'YES INDEED!'
-  return response;
-}
